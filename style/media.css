@@ -24,7 +24,7 @@
     }
 }
 @media (max-width: 1550px) {
-    .menu-wrapper, .category, .slider, .advantages, .bestsellers, .about, .contact, .cart-product, .buy {
+    .menu-wrapper, .category, .slider, .advantages, .bestsellers, .about, .contact, .cart-product, .buy, .history {
         padding: 0 170px;
     }
     .footer {
@@ -68,7 +68,7 @@
     }
 }
 @media (max-width: 1215px) {
-    .hc-wrapper, .category, .menu-wrapper, .slider, .advantages, .bestsellers, .about, .contact, .cart-product, .buy {
+    .hc-wrapper, .category, .menu-wrapper, .slider, .advantages, .bestsellers, .about, .contact, .cart-product, .buy, .history {
         padding: 0 70px;
     }
     .footer {
@@ -242,7 +242,7 @@
     .cwc-cart::after {
         left: -25%;
     }
-    .menu-wrapper, .category, .slider, .advantages, .bestsellers, .about, .contact, .cart-product, .buy {
+    .menu-wrapper, .category, .slider, .advantages, .bestsellers, .about, .contact, .cart-product, .buy, .history {
         padding: 0 10px;
     }
     .footer {

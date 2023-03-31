@@ -760,6 +760,17 @@ footer {
     text-transform: uppercase;
     color: #B8B8B8;
 }
+.history {
+    padding: 0 370px;
+}
+.hw-title {
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 49px;
+    text-transform: uppercase;
+    color: #18154B;
+    margin-bottom: 44px;
+}
 /* OWL */
 .owl-carousel {
     position: relative;
